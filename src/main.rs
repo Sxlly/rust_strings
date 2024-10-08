@@ -12,5 +12,8 @@ fn main() { //declare main method
     //this allows string 1 to still be used as string 2 only borrowed string1
     println!("{}", string1); //print string1 to terminal
     println!("{}", string2); //print string2 to terminal
+
+
+    
 }
 
