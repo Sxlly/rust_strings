@@ -13,12 +13,6 @@ fn main() { //declare main method
     println!("{}", string1); //print string1 to terminal
     println!("{}", string2); //print string2 to terminal
 
-    fn hello_user(name: &str) { //declare function 
-
-        println!("Hello, {}!", name);
-    }
-
-    hello_user("Shae");
 
 
 
