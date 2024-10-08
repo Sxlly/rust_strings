@@ -4,7 +4,7 @@
 // 17/09/24
 
 
-fn main() {
+fn main() { //declare main method
     
     let string1 = String::from("im a string"); //declaring a mutable
     let string2 = &string1; //declaring a another string variable that uses &str to borrow string1's value without becoming the new owner
